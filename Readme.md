@@ -1,2 +1,3 @@
 # Rust tutorial
 
+Update soon.
